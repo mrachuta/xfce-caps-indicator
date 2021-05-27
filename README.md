@@ -23,6 +23,9 @@ Code was tested on following platforms:
 Used libraries:
 * available in requirements.txt
 
+Additional required packages:
+* libindicator3-7 (Debian)
+
 ## Setup
 
 1. Clone git repo to localhost.
