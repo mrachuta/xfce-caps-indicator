@@ -25,6 +25,8 @@ Used libraries:
 
 Additional required packages:
 * libindicator3-7 (Debian)
+* gir1.2-appindicator3-0.1 (Debian < 10)
+* gir1.2-ayatanaappindicator3-0.1 (Debian >= 10)
 
 ## Setup
 

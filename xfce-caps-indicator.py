@@ -9,9 +9,9 @@ import subprocess
 from threading import Thread
 
 gi.require_version("Gio", "2.0")
-gi.require_version("AppIndicator3", "0.1")
+gi.require_version("AyatanaAppIndicator3", "0.1")
 
-from gi.repository import Gio, AppIndicator3, Gtk
+from gi.repository import Gio, AyatanaAppIndicator3 as AppIndicator3, Gtk
 from pynput.keyboard import Key, KeyCode, Listener
 
 
